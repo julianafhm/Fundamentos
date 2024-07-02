@@ -1,0 +1,23 @@
+h1 { text-decoration : underline ; text-align : center ; }
+.texto_negrito { font-weight : bold ; }
+.sem_sublinhado {text-decoration : none; }
+.sem_borda {border-style : none; }
+.borda_pontilhada {border-style : dotted; }
+.borda_tracejada {border-style : dashed; }
+.borda_solida {border-style : solid; }
+.borda_baixorelevo {border-style : inset; }
+.borda_altorelevo {border-style : outset; }
+.borda_dupla {border-style : double; }
+.borda_fina {border-style : solid; border-width : thin; }
+.borda_media {border-style : solid; border-width : medium; }
+.borda_grossa {border-style : solid; border-width : thick; }
+.borda_personalizada
+{
+
+border-style : solid;
+border-top-width : 10 pt ;
+border-right-width : 10 pt ;
+border-bottom-width : 10 pt ;
+border-left-width : 10 pt ;
+
+}
