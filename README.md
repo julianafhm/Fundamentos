@@ -1,3 +1,3 @@
-fundamentos básicos em JavaScript
-TypeScript
-HTML/CSS
+fundamentos básicos em JavaScript,
+TypeScript,
+HTML
